@@ -7,6 +7,7 @@ START_OF_PLAYOFFS = 15
 
 with open("player_data.json", 'r') as f:
     players = json.load(f)
+
 with open("taxi_squads.json") as f:
     taxi_squad_removals = json.load(f)
 
