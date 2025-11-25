@@ -12,7 +12,7 @@ with open("taxi_squads.json") as f:
     taxi_squad_removals = json.load(f)
 
 positions = [["QB"], ["RB"], ["RB"], ["WR"], ["WR"], ["TE"], [
-    "QB", "WR", "RB", "TE"], ["WR", "RB", "TE"], ["WR", "RB", "TE"], ["DEF"], ["K"]]
+    "WR", "RB", "TE"], ["WR", "RB", "TE"], ["QB", "WR", "RB", "TE"], ["DEF"], ["K"]]
 
 
 def get_league_id():
