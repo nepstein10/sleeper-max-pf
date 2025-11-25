@@ -1,0 +1,206 @@
+[
+    {
+        "avatar": "4f4090e5e9c3941414db40a871e3e909",
+        "display_name": "zekewolin",
+        "is_bot": false,
+        "is_owner": null,
+        "league_id": "1256102444601970688",
+        "metadata": {
+            "allow_pn": "off",
+            "league_report_pn": "off",
+            "mascot_message": "off",
+            "mention_pn": "on",
+            "player_like_pn": "off",
+            "player_nickname_update": "off",
+            "team_name": "Stroud Boys ",
+            "team_name_update": "off",
+            "trade_block_pn": "off",
+            "transaction_commissioner": "off",
+            "transaction_free_agent": "off",
+            "transaction_trade": "off",
+            "transaction_waiver": "off",
+            "user_message_pn": "off"
+        },
+        "settings": null,
+        "user_id": "741089351982858240"
+    },
+    {
+        "avatar": "8eb8f8bf999945d523f2c4033f70473e",
+        "display_name": "halluci293",
+        "is_bot": false,
+        "is_owner": null,
+        "league_id": "1256102444601970688",
+        "metadata": {
+            "allow_pn": "on",
+            "archived": "off",
+            "mention_pn": "on",
+            "team_name": "Nix Pics for Mahomies"
+        },
+        "settings": null,
+        "user_id": "754032375998062592"
+    },
+    {
+        "avatar": null,
+        "display_name": "abikrish47",
+        "is_bot": false,
+        "is_owner": true,
+        "league_id": "1256102444601970688",
+        "metadata": {
+            "allow_pn": "on",
+            "avatar": "https://sleepercdn.com/uploads/5f0701414a9810c7297a1910a6ded970",
+            "mention_pn": "on",
+            "team_name": "ASlyHogWillAimToHoard"
+        },
+        "settings": null,
+        "user_id": "754892409967669248"
+    },
+    {
+        "avatar": "c5be2e3155e9b094e34fea7c6ef3c65f",
+        "display_name": "ChubbyGoat8",
+        "is_bot": false,
+        "is_owner": null,
+        "league_id": "1256102444601970688",
+        "metadata": {
+            "allow_pn": "on",
+            "archived": "off",
+            "avatar": "https://sleepercdn.com/uploads/89f796bf369e5e5a00834236b2afeb4b.jpg",
+            "league_report_pn": "on",
+            "mascot_message": "off",
+            "mention_pn": "on",
+            "player_like_pn": "on",
+            "player_nickname_update": "off",
+            "team_name": "eZ:CH0p![u59",
+            "team_name_update": "off",
+            "trade_block_pn": "off",
+            "transaction_commissioner": "on",
+            "transaction_free_agent": "off",
+            "transaction_trade": "on",
+            "transaction_waiver": "on",
+            "user_message_pn": "on"
+        },
+        "settings": null,
+        "user_id": "869331035505192960"
+    },
+    {
+        "avatar": "e7af4deab0289b4f5505646424895246",
+        "display_name": "bermafrost",
+        "is_bot": false,
+        "is_owner": null,
+        "league_id": "1256102444601970688",
+        "metadata": {
+            "allow_pn": "on",
+            "mention_pn": "on",
+            "team_name": "Love2Tank"
+        },
+        "settings": null,
+        "user_id": "870001324966707200"
+    },
+    {
+        "avatar": "79a486f9eb82ad315cc1a691b1b9f7f8",
+        "display_name": "nepstein10",
+        "is_bot": false,
+        "is_owner": null,
+        "league_id": "1256102444601970688",
+        "metadata": {
+            "allow_pn": "on",
+            "league_report_pn": "on",
+            "mascot_message": "on",
+            "mention_pn": "on",
+            "player_like_pn": "on",
+            "player_nickname_update": "off",
+            "team_name": "Tank Bigsly",
+            "team_name_update": "on",
+            "trade_block_pn": "on",
+            "transaction_commissioner": "on",
+            "transaction_free_agent": "off",
+            "transaction_trade": "on",
+            "transaction_waiver": "on",
+            "user_message_pn": "on"
+        },
+        "settings": null,
+        "user_id": "959958387133931520"
+    },
+    {
+        "avatar": "8eb8f8bf999945d523f2c4033f70473e",
+        "display_name": "pranavsuresh",
+        "is_bot": false,
+        "is_owner": null,
+        "league_id": "1256102444601970688",
+        "metadata": {
+            "allow_pn": "on",
+            "avatar": "https://sleepercdn.com/uploads/6a6bda8d05db6a0b8cb635c4cf290174.jpg",
+            "mention_pn": "on",
+            "team_name": "liminal shrïne"
+        },
+        "settings": null,
+        "user_id": "992261435885445120"
+    },
+    {
+        "avatar": "82aec8e811b839b8ec25d7b458afd57b",
+        "display_name": "colerabson",
+        "is_bot": false,
+        "is_owner": null,
+        "league_id": "1256102444601970688",
+        "metadata": {
+            "allow_pn": "on",
+            "allow_sms": "on",
+            "mention_pn": "on"
+        },
+        "settings": null,
+        "user_id": "999037022478086144"
+    },
+    {
+        "avatar": "51385ba57cd089261f6de9ce483b8716",
+        "display_name": "smeyerson27",
+        "is_bot": false,
+        "is_owner": null,
+        "league_id": "1256102444601970688",
+        "metadata": {
+            "allow_pn": "on",
+            "mention_pn": "on"
+        },
+        "settings": null,
+        "user_id": "1256113751384412161"
+    },
+    {
+        "avatar": "51385ba57cd089261f6de9ce483b8716",
+        "display_name": "zachstruhl",
+        "is_bot": false,
+        "is_owner": null,
+        "league_id": "1256102444601970688",
+        "metadata": {
+            "allow_pn": "on",
+            "mention_pn": "on"
+        },
+        "settings": null,
+        "user_id": "1256246549260816384"
+    },
+    {
+        "avatar": "d22e52781a5d7a94bcbf2aa70e748382",
+        "display_name": "ldaguirre",
+        "is_bot": false,
+        "is_owner": null,
+        "league_id": "1256102444601970688",
+        "metadata": {
+            "allow_pn": "on",
+            "allow_sms": "on",
+            "mention_pn": "on"
+        },
+        "settings": null,
+        "user_id": "1256388195570954240"
+    },
+    {
+        "avatar": "578c6b253dd7b4bab45382e1af102204",
+        "display_name": "jlarocca99",
+        "is_bot": false,
+        "is_owner": null,
+        "league_id": "1256102444601970688",
+        "metadata": {
+            "allow_pn": "on",
+            "mention_pn": "on",
+            "team_name": "The Princess McBrides"
+        },
+        "settings": null,
+        "user_id": "1256803011078918144"
+    }
+]
